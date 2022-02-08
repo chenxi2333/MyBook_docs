@@ -9,4 +9,4 @@
 宁卑微如尘，不扭曲如蛆虫
 
 [GitHub](https://github.com/chenxi2333) 
-[Get Started](#前言)
+[Get Started](#学而时习之)
