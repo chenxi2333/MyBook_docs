@@ -77,7 +77,7 @@ ___
  * C：
    * [《C和指针》](books\计算机\程序\PointersOnC.md)
  * C++：
-   * 《Essential C++》
+   * [《Essential C++》](books\计算机\程序\Essential C++.md)
    * 《C++ Prime》
 
 
@@ -88,6 +88,8 @@ ___
 ## 计算机科学
 
 [一份硬核计算机科学CS自学计划](books\方法论\CSlearning.md)
+
+### 计算机组成原理
 
 ### 操作系统
 
