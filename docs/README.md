@@ -24,14 +24,14 @@
 
 ### 编程语言
 
-| 书名                                                         | 分类          |
-| ------------------------------------------------------------ | ------------- |
-| [《C和指针》](books\计算机\程序\PointersOnC.md)              | 计算机-C/C++  |
-| [《Essential C++》](books\计算机\程序\EssentialC++.md)       | 计算机-C/C++  |
-| [《C++ Primer（第五版）》](books\计算机\程序\C++Primer\C++Primer.md) | 计算机-C/C++  |
-| [Python书单](books\计算机\程序\Python书单)                   | 计算机-Python |
-| [一份硬核计算机科学CS自学计划](books\计算机\CSlearning.md)   | 计算机        |
-|                                                              |               |
+| 书名                                                       | 分类          |
+| ---------------------------------------------------------- | ------------- |
+| [《C和指针》](books\计算机\程序\PointersOnC.md)            | 计算机-C/C++  |
+| [《Essential C++》](books\计算机\程序\EssentialC++.md)     | 计算机-C/C++  |
+| [《C++ Primer（第五版）》](books\计算机\程序\C++Primer.md) | 计算机-C/C++  |
+| [Python书单](books\计算机\程序\Python书单)                 | 计算机-Python |
+| [一份硬核计算机科学CS自学计划](books\计算机\CSlearning.md) | 计算机        |
+|                                                            |               |
 
 ### 计算机通识
 
