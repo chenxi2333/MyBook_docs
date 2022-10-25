@@ -8,5 +8,5 @@
 
 宁卑微如尘，不扭曲如蛆虫
 
-[GitHub](https://github.com/chenxi2333) 
+[个人博客](https://chenxi2333.github.io/) 
 [Get Started](#知识目录)
