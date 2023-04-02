@@ -443,3 +443,9 @@ make是一个命令，makefile是一个文件，描述了编译规则。
 
 
 这两节的内容都只是简单介绍，这部分最重要的还是要我们自己在实际操作的过程中去学习的。
+
+
+
+## Chapter 12 　　学习Shell Scripts
+
+1. 什么是Shell Script？
