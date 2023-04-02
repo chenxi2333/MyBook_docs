@@ -15,4 +15,18 @@
   - 客户端上：构建/拉取镜像、docker启动。
   - 服务端：基于镜像运行容器
   - 网络端：提供下载镜像。
-- 
+
+## Docker安装
+
+1. 参考官方手册[Install Docker Desktop on Linux](https://docs.docker.com/desktop/install/linux-install/#system-requirements)
+
+2. docker的安装有engine和desktop，前者包含了虚拟机、图形界面和其它特性，并且依赖于engine。后者则是命令行工具客户端docker。
+   
+   1. Docker Engine is an open source containerization technology for building and containerizing your applications. Docker Engine acts as a client-server application with:
+      A server with a long-running daemon process dockerd.
+      APIs which specify interfaces that programs can use to talk to and instruct the Docker daemon.
+      A command line interface (CLI) client docker.
+
+3. 为了拥有更好的学习效果，并且考虑到Desktop的速度，暂时不安装Docker Desktop。
+
+4. 修改Docker的源，来提升镜像的下载速度。
