@@ -16,8 +16,6 @@
 
 ![如何学习](HowToLearn.png)
 
-## 
-
 
 
 # 知识与你分享
@@ -112,10 +110,15 @@
 
 
 
+## [实验和竞赛笔记](ExpRecords\书单.md)
 
-## [好书推荐](书单.md)
+- [NJU-PA1](ExpRecords\NJU_PA1.md)
+- [CS61A SICP-Lab](ExpRecords\NJU_PA1.md)
+- [23华为嵌入式软件精英赛](ExpRecords\Competition01.md)
 
-## [路径](路径.md)
 
 
+## [规划和记录](Learning-Record\路径.md)
+
+- [2023年](Learning-Record\2023.md)
 
