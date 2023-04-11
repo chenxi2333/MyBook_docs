@@ -10,7 +10,8 @@
 
 [Get Started](#知识与你分享)
 
+[学习路径](#知识与你分享)
+
 <!--[个人博客](https://chenxi2333.github.io/) -->
 <!--[学习记录](https://952767991s-organization.gitbook.io/learning-record/) -->
-
 

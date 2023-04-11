@@ -110,15 +110,16 @@
 
 
 
-## [实验和竞赛笔记](ExpRecords\书单.md)
+## 实验和竞赛笔记
 
 - [NJU-PA1](ExpRecords\NJU_PA1.md)
-- [CS61A SICP-Lab](ExpRecords\NJU_PA1.md)
+- [CS61A SICP-Lab](ExpRecords\SICP_Lab.md)
 - [23华为嵌入式软件精英赛](ExpRecords\Competition01.md)
 
 
 
 ## [规划和记录](Learning-Record\路径.md)
 
+- [2022年](Learning-Record\2022.md)
 - [2023年](Learning-Record\2023.md)
 
